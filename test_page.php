@@ -1,10 +1,3 @@
-<?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $name = $_POST["name"];
-    $surname = $_POST["surname"];
-}
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
